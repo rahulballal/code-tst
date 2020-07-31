@@ -1,0 +1,24 @@
+{
+  "name": "coding-test",
+  "version": "1.0.0",
+  "description": "Persuit Coding Test",
+  "type": "module",
+  "scripts": {
+    "test": "jest --verbose",
+    "lint:check": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.2.1",
+    "standard": "^14.3.4"
+  },
+  "dependencies": {
+    "got": "^11.5.1"
+  },
+  "standard": {
+    "env": ["jest"]
+  }
+}
