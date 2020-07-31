@@ -21,6 +21,12 @@
         - `src/04_remote-data.js`
     - The test files can be found alongside the solution file with `.spec.js` extension.
     - We recommend you use `https://yarnpkg.com/package/got` to make API calls for `src/04_remote-data.js`. You may install any other package if you wish.
+    - EXTRA POINTS:
+        - Add extra tests to make the code coverage higher
+
+## End Goal
+
+Make all failing tests pass!!
 
 ## How to submit your solutions ?
 
