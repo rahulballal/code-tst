@@ -16,7 +16,7 @@
     "standard": "^14.3.4"
   },
   "dependencies": {
-    "got": "^11.5.1"
+    "got": "^11.8.5"
   },
   "standard": {
     "env": ["jest"]
